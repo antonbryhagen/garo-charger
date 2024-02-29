@@ -1,0 +1,24 @@
+{
+  "name": "garo-charger",
+  "version": "1.0.0",
+  "description": "Garo EV Charger App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonbryhagen/garo-charger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonbryhagen/garo-charger/issues"
+  },
+  "homepage": "https://github.com/antonbryhagen/garo-charger#readme",
+  "dependencies": {
+    "express": "4.18.3",
+    "nodemon": "3.1.0"
+  }
+}
